@@ -1,4 +1,4 @@
-# Code Of  Codunt [ atg007 ]
+# Code Of  Conduct [ atg007 ]
 
 ## Our Pledge
 
@@ -52,4 +52,5 @@ We acknowledge that creating an open and inclusive community requires continuous
 # Visit ME : [ahroniy.me](https://ahroniy.me)
 
 Happy Coding 🙃
+
 
